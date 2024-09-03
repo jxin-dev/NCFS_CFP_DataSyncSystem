@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B6EA9176-AE27-4530-B9C6-F7055BD5DA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCFS_CFP_DataSyncSystem.WebApi", "NCFS_CFP_DataSyncSystem.WebApi\NCFS_CFP_DataSyncSystem.WebApi.csproj", "{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{008178D2-5E19-4D41-A8FF-6B5A9F3C4F32} = {B6EA9176-AE27-4530-B9C6-F7055BD5DA2C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F17477-8F9F-47F0-AE19-EF28BEC28E15}
+	EndGlobalSection
+EndGlobal
